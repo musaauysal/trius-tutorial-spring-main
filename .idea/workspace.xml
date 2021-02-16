@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6933496-0e6f-41db-bf1a-f87ff2cd4aed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1hzP0i0nsalGSDHiPEm87edXKmM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/product" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CRYPTON\Desktop\trius_tutorial_spring-main\src\main\resources\templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootMongodbApplication (1)">
+    <configuration name="SpringBootMongodbApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="trius.springframework.SpringBootMongodbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootMongodbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.SpringBootMongodbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringBootMongodbApplication" />
+      <item itemvalue="Spring Boot.SpringBootMongodbApplication (1)" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6933496-0e6f-41db-bf1a-f87ff2cd4aed" name="Default Changelist" comment="" />
+      <created>1601010727004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601010727004</updated>
+      <workItem from="1601010729522" duration="51000" />
+      <workItem from="1601012697848" duration="24000" />
+      <workItem from="1601012739882" duration="1225000" />
+      <workItem from="1601030071192" duration="610000" />
+      <workItem from="1601051292504" duration="3504000" />
+      <workItem from="1612020488007" duration="2001000" />
+      <workItem from="1612028267615" duration="2719000" />
+      <workItem from="1612031006886" duration="188000" />
+      <workItem from="1612031234059" duration="137000" />
+      <workItem from="1612075921769" duration="5591000" />
+      <workItem from="1612084799773" duration="115000" />
+      <workItem from="1612085803068" duration="15179000" />
+      <workItem from="1612172308436" duration="2864000" />
+      <workItem from="1612179200133" duration="1877000" />
+      <workItem from="1612182545350" duration="50290000" />
+      <workItem from="1612371678058" duration="4590000" />
+      <workItem from="1612377089508" duration="419000" />
+      <workItem from="1612377542853" duration="2583000" />
+      <workItem from="1612429175250" duration="673000" />
+      <workItem from="1612441285794" duration="169000" />
+      <workItem from="1612441478597" duration="422000" />
+      <workItem from="1612442413255" duration="10707000" />
+      <workItem from="1612534263376" duration="9112000" />
+      <workItem from="1612609745730" duration="8967000" />
+      <workItem from="1612637511223" duration="8171000" />
+      <workItem from="1612681880459" duration="8697000" />
+      <workItem from="1612696294645" duration="14388000" />
+      <workItem from="1612729803041" duration="3269000" />
+      <workItem from="1612794818562" duration="470000" />
+      <workItem from="1612801843460" duration="2765000" />
+      <workItem from="1612812285623" duration="3035000" />
+      <workItem from="1612852454483" duration="802000" />
+      <workItem from="1612862706882" duration="1289000" />
+      <workItem from="1612864672801" duration="2567000" />
+      <workItem from="1612902781107" duration="433000" />
+      <workItem from="1612960087015" duration="6509000" />
+      <workItem from="1612985267500" duration="1577000" />
+      <workItem from="1613039199476" duration="2479000" />
+      <workItem from="1613118246487" duration="1550000" />
+      <workItem from="1613130157571" duration="16251000" />
+      <workItem from="1613242473104" duration="2134000" />
+      <workItem from="1613287042893" duration="2852000" />
+      <workItem from="1613308564463" duration="8798000" />
+      <workItem from="1613337108891" duration="1241000" />
+      <workItem from="1613378355702" duration="5470000" />
+      <workItem from="1613391413875" duration="8620000" />
+      <workItem from="1613460769393" duration="6900000" />
+      <workItem from="1613496378068" duration="4021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
