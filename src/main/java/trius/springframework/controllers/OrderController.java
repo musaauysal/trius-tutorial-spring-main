@@ -17,6 +17,9 @@ import trius.springframework.services.OrderService;
 import trius.springframework.services.ProductService;
 
 import javax.validation.Valid;
+import java.text.SimpleDateFormat;
+import java.time.LocalDate;
+import java.util.Date;
 
 @Controller
 public class OrderController {
@@ -67,6 +70,9 @@ public class OrderController {
         orderForm.setPrice(product.getPrice());
         orderForm.setDescription(product.getDescription());
         orderForm.setName(product.getName());
+        SimpleDateFormat figure = new SimpleDateFormat("dd.MM.yyyy'-' HH:mm:ss");
+        Date date =new Date();
+        orderForm.setDate(figure.format(date));
         model.addAttribute("orderForm", orderForm);
         return "order/orderform";
     }

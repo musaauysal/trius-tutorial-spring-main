@@ -44,7 +44,7 @@
                 <td th:text="${product.description}"></td>
                 <td th:text="${product.price}"></td>
                 <td th:text="${product.stock}"></td>
-
+                
                 <td><a th:href="${'/order/new/'+    product.id.toHexString()}">Add</a> </td>
                 <td><a th:href="${'/product/show/' + product.id.toHexString()}">View</a> </td>
                 <td><a th:href="${'/product/edit/' + product.id.toHexString()}">Edit</a> </td>

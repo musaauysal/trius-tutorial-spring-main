@@ -27,6 +27,7 @@
                 <th>Name</th>
                 <th>Description</th>
                 <th>Number</th>
+                <th>Date</th>
 
                 <th>List</th>
                 <th>Edit</th>
@@ -37,6 +38,7 @@
                 <td th:text="${order.name}"></td>
                 <td th:text="${order.description}"></td>
                 <td th:text="${order.number}"></td>
+                <td th:text="${order.date}"></td>
                 <td><a th:href="${'/order/show/' + order.id.toHexString()}">View</a> </td>
                 <td><a th:href="${'/order/edit/' + order.id.toHexString()}">Edit</a> </td>
                 <td><a th:href="${'/order/delete/' + order.id.toHexString()}">Delete</a> </td>

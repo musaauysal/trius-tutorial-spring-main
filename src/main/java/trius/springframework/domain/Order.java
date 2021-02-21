@@ -5,6 +5,7 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.math.BigDecimal;
+import java.time.LocalDate;
 
 @Document(collection = "order")
 public class Order {
@@ -17,15 +18,8 @@ public class Order {
     private String description;
     private BigDecimal price;
     private int number;
+    private String date;
 
-
-    public int getNumber() {
-        return number;
-    }
-
-    public void setNumber(int number) {
-        this.number = number;
-    }
 
     public ObjectId get_id() {
         return _id;
@@ -66,5 +60,17 @@ public class Order {
     public void setPrice(BigDecimal price) {
         this.price = price;
     }
+
+    public int getNumber() {
+        return number;
+    }
+
+    public void setNumber(int number) {
+        this.number = number;
+    }
+
+    public String getDate() { return date; }
+
+    public void setDate(String date) { this.date = date; }
 
 }

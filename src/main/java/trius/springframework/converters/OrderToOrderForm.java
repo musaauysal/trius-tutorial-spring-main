@@ -16,6 +16,7 @@ public class OrderToOrderForm implements Converter<Order, OrderForm> {
         orderForm.setDescription(order.getDescription());
         orderForm.setPrice(order.getPrice());
         orderForm.setNumber(order.getNumber());
+        orderForm.setDate(order.getDate());
         return orderForm;
     }
 }

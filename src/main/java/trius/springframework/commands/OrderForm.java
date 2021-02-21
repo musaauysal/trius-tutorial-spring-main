@@ -1,6 +1,10 @@
 package trius.springframework.commands;
 
+
+
 import java.math.BigDecimal;
+import java.time.LocalDate;
+
 
 public class OrderForm {
     private String id;
@@ -14,13 +18,8 @@ public class OrderForm {
 
     private int number;
 
-    public int getNumber() {
-        return number;
-    }
+    private String date;
 
-    public void setNumber(int number) {
-        this.number = number;
-    }
 
     public String getId() {
         return id;
@@ -49,5 +48,17 @@ public class OrderForm {
     public void setPrice(BigDecimal price) {
         this.price = price;
     }
+
+    public int getNumber() {
+        return number;
+    }
+
+    public void setNumber(int number) {
+        this.number = number;
+    }
+
+    public String getDate() { return date; }
+
+    public void setDate(String date) { this.date = date; }
 
 }
