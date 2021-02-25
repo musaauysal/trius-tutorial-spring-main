@@ -67,6 +67,9 @@ public class OrderController {
 
         OrderForm orderForm = new OrderForm();
         Product product = productService.getById(productId);
+        //new
+        orderForm.setId(productId);
+
         orderForm.setPrice(product.getPrice());
         orderForm.setDescription(product.getDescription());
         orderForm.setName(product.getName());
@@ -84,6 +87,10 @@ public class OrderController {
             return "order/orderform";
         }
 
+        Product product = productService.getById(orderForm.getId());
+        int newstock =product.getStock()-orderForm.getNumber();
+        product.setStock(newstock);
+        productService.saveOrUpdate(product);
         Order savedOrder = orderService.saveOrUpdateOrderForm(orderForm);
 
         return "redirect:/order/show/" + savedOrder.getId();
