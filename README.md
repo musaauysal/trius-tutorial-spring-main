@@ -1,2 +1,2 @@
-# trius_tutorial_spring-main
+# Spring boot e-commerce site
  
